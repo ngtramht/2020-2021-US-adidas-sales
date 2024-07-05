@@ -16,16 +16,17 @@ link Kaggle [https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-datas
 
 ### Thuộc tính dữ liệu
 
-1	Retailer: Tên các đại lý phân phối sản phẩm của Adidas.
-2	Retailer ID: Mã định danh của các đại lý.
-3	Invoice Date: Thời gian bán hàng được ghi trên hóa đơn.
-4	Region: Khu vực bán hàng của Adidas tại Mỹ.
-5	State: Tiểu bang nơi các có các cửa hàng phân phối các sản phẩm của Adidas
-6	City:	Tên các thành phố 
-7	Product:	Tên sản phẩm được bán của Adidas
-8	Price per Unit: Giá trên mỗi đơn vị sản phẩm được bán ra.
-9	Units Sold: Số lượng sản phẩm đã được bán ra trên mỗi hóa đơn.
-10	Operating Profit: Lợi nhuận hoạt động
-11	Operating Margin: Biên lợi nhuận của mỗi hóa đơn
-12	Sales Method: Các phương thức bán hàng.
+- 1	Retailer: Tên các đại lý phân phối sản phẩm của Adidas.
+- 2	Retailer ID: Mã định danh của các đại lý.
+- 3	Invoice Date: Thời gian bán hàng được ghi trên hóa đơn.
+- 4	Region: Khu vực bán hàng của Adidas tại Mỹ.
+- 5	State: Tiểu bang nơi các có các cửa hàng phân phối các sản phẩm của Adidas
+- 6	City:	Tên các thành phố 
+- 7	Product:	Tên sản phẩm được bán của Adidas
+- 8	Price per Unit: Giá trên mỗi đơn vị sản phẩm được bán ra.
+- 9	Units Sold: Số lượng sản phẩm đã được bán ra trên mỗi hóa đơn.
+- 10	Operating Profit: Lợi nhuận hoạt động
+- 11	Operating Margin: Biên lợi nhuận của mỗi hóa đơn
+- 12	Sales Method: Các phương thức bán hàng.
+- 13 Total Sales: Doanh thu tổng.
 
